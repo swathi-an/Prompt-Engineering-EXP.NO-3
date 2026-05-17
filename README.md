@@ -44,4 +44,5 @@ Missing Word Prompting:
 
 OUTPUT:
 
-RESULT: 
+RESULT: [Prompt lab exp1 Swathi A N (2).pdf](https://github.com/user-attachments/files/27875379/Prompt.lab.exp1.Swathi.A.N.2.pdf)
+
